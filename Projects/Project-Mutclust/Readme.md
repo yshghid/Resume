@@ -12,7 +12,7 @@
    3. 중증 연관 hotspot 보유군의 면역학적 기전 규명
 
 5. 핵심 성과
-   1. Mutation Hotspot 탐지를 위한 MutClust 알고리즘 개발
+   5-1. Mutation Hotspot 탐지를 위한 MutClust 알고리즘 개발
       1. 데이터: GISAID SARS-CoV-2 유전체 시퀀스 (N=224,318/2020–2022)
       2. 사용 스택 및 기술: Python, NumPy, Pandas, H-score(Shannon Entropy 기반 돌연변이 중요도), MutClust(In-house 유전체 분석 알고리즘)
       3. 성과
@@ -20,7 +20,7 @@
          - 기존 빈도 기반 방식이 놓친 중증 관련 핫스팟(c315, c442) 포착 가능
          - H-중요도가 기존 nucleotide entropy 및 빈도 기반 접근법보다 높은 설명력을 보임
 
-   2. 중증 관련 돌연변이 Hotspot 28개 도출 및 Multi-omics 통합 기전 구축
+   5-2. 중증 관련 돌연변이 Hotspot 28개 도출 및 Multi-omics 통합 기전 구축
       1. 데이터
          - COVID-19 multi-omics 코호트(N=387/Chungnam National University Hospital, Seoul Medical Center, Samsung Medical Center)
          - scRNA-seq, patient driven SARS-CoV-2 sequence, Cytokine
