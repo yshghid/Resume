@@ -1,16 +1,4 @@
----
-date : 2025-07-22
-tags: ['2025-07']
-categories: ['SW']
-bookHidden: true
-title: "HTML #1 프로필 웹페이지 작성 실습"
----
-
 # HTML #1 프로필 웹페이지 작성 실습
-
-#2025-07-22
-
----
 
 ### 1. naive 버전
 
