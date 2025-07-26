@@ -1,0 +1,23 @@
+# HTML
+
+### Contents
+
+1. 프로필 웹페이지 작성 실습 [>>](https://github.com/yshghid/Resume/blob/main/Experience/SKALA/Practice/HTML/html1.md) 
+
+
+### 파일 구조
+
+```plain text
+#1
+
+/HTML
+├── 자기소개.html
+└── media/
+     ├── 증명사진.jpg
+     ├── blog.jpg
+     ├── net1.jpg
+     ├── net2.jpg
+     ├── net3.jpg
+     ├── net4.jpg
+     └── playlist.jpg
+```
