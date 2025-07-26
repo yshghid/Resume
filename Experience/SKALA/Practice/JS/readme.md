@@ -7,8 +7,7 @@
 ### 파일 구조
 
 ```plain text
-# 1. 쇼핑몰 주문 처리 실습
-
+#1
 /JS
 ├── order.html
 ├── style.css
