@@ -1,10 +1,10 @@
 # JS
 
-### 1. Posts
+### #Posts
 1. 쇼핑몰 주문 처리 실습 [>>](https://github.com/yshghid/Resume/blob/main/Experience/SKALA/Practice/JS/readme.md#1-%EC%87%BC%ED%95%91%EB%AA%B0-%EC%A3%BC%EB%AC%B8-%EC%B2%98%EB%A6%AC-%EC%8B%A4%EC%8A%B5) 
 
 
-### 2. 파일 구조
+### #파일 구조
 
 ```plain text
 # 1. 쇼핑몰 주문 처리 실습
